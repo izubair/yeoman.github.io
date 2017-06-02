@@ -56,7 +56,7 @@ For this codelab, we will use **React**, **Webpack**, **Babel**, **SASS** and th
 
 ![](/assets/img/codelab/03_yo_run_generator.png)
 
-Select successively these options with the arrows keys and the **enter** and watch the magic happen.
+Select successively these options with the arrows keys and the **enter** and watch the magic happen. Select **enter** for all other options to use defaults.
 
 ![](/assets/img/codelab/03_yo_select.png)
 
